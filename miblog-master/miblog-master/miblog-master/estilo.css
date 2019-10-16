@@ -1,0 +1,26 @@
+#titulo{color: teal;}
+#subtitulo{color:blue;}
+
+.destacado{color:orange;}
+
+p span {color:red;}
+
+a {color:red;}
+
+a em {color:blue;}
+
+.especial {color:purple;}
+
+#adicional{color:olive;}
+
+div span {color:olive;}
+
+#adicional span#especial {color:purple;}
+
+#adicional p a {color:green;}
+
+table, th, td, tr {
+    border: 1px solid black ;
+  }
+
+table caption {color:blue;}
